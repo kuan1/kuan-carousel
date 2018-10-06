@@ -8,7 +8,8 @@ const {
   resolve
 } = require('./utils')
 
-const entry = resolve('src/demo')
+// dev entry
+const entry = resolve('test')
 
 // dev config
 const devConfig = {

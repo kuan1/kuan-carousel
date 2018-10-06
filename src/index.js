@@ -1,1 +1,5 @@
-document.body.innerHTML = '<h1>1234</h1>'
+import './Carousel.less'
+
+import Carousel from './carousel'
+
+export default Carousel

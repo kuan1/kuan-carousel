@@ -1,1 +1,0 @@
-document.body.innerHTML = '<h1>1234</h1>'
