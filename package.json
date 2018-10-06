@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "node dev",
     "build": "node build",
+    "build:demo": "node buildDemo",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
