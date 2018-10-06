@@ -2,7 +2,7 @@
 
 > 部分思路借鉴 https://github.com/nolimits4web/swiper
 
-一个功能很简单的轮播图
+一个功能很简单的轮播图，仅完成了基本功能（-.-）
 
 ## 预览地址
 
